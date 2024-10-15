@@ -1,4 +1,3 @@
-````markdown
 # Cafe Management Backend
 
 This is a Node.js backend for managing employee and cafe data using MySQL. The API provides endpoints to retrieve and manage employees, cafes, and their relationships.
@@ -46,7 +45,6 @@ Make sure you have the following installed on your machine:
    git clone https://github.com/your-username/cafe-management-backend.git
    cd cafe-management-backend
    ```
-````
 
 2. **Install Node.js dependencies**:
 
