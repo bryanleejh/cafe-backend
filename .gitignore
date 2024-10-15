@@ -1,0 +1,14 @@
+# Node.js dependencies
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+*.log
+
+# OS metadata files
+.DS_Store
+
+# Package lock (optional)
+package-lock.json
